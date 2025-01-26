@@ -101,4 +101,6 @@ ukrainian-multi-tts/
 Якщо у вас є питання або пропозиції, будь ласка:
 1. Створіть issue в цьому репозиторії
 2. Відправте pull request
-3. Зв'яжіться зі мною через  metfarell@gmail.com]
+3. Зв'яжіться зі мною через:
+     whatsapp +48731485019
+     metfarell@gmail.com]
